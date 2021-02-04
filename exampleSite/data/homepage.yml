@@ -90,7 +90,7 @@ screenshot:
   image: images/screenshot.svg
 call_to_action:
   enable: true
-  title: Get Started
+  title: Ready to get started?
   image: images/cta.svg
   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
     eget amet, tempus eu at consecttur.
